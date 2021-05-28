@@ -1,0 +1,10 @@
+16:58:33 **** Incremental Build of configuration Debug for project baby_beluga_2 ****
+make -j20 all 
+arm-none-eabi-size   baby_beluga_2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12716	     20	   1572	  14308	   37e4	baby_beluga_2.elf
+Finished building: default.size.stdout
+ 
+
+16:58:33 Build Finished. 0 errors, 0 warnings. (took 485ms)
+
